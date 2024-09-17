@@ -1,0 +1,13 @@
+# Ignorar el entorno virtual y otros archivos grandes
+myenv/
+venv/
+*.dll
+*.lib
+*.db
+*.dic
+*.pkl
+*.zip
+
+# Archivos temporales de compilación de Python
+__pycache__/
+*.pyc

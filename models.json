@@ -1,0 +1,13 @@
+{
+    "tts_models": {
+        "es": {
+            "mai": {
+                "tacotron2-DDC": {
+                    "model_file": "https://models.s3.amazonaws.com/tts_models--es--mai--tacotron2-DDC/model_file.pth.tar",
+                    "config_file": "https://models.s3.amazonaws.com/tts_models--es--mai--tacotron2-DDC/config.json",
+                    "stats_file": "https://models.s3.amazonaws.com/tts_models--es--mai--tacotron2-DDC/scale_stats.npy"
+                }
+            }
+        }
+    }
+}

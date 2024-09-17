@@ -1,0 +1,6 @@
+speechrecognition
+playsound
+boto3  # Solo si decides usar Amazon Polly
+python-dotenv
+pymongo
+git+https://github.com/mozilla/TTS.git
